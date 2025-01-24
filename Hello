@@ -8,10 +8,11 @@
                 font-size: 20px;
                 height: 200px;
                 width: 200px;
+                color: blue:
             }
         </style>
     </head>
     <body>
-        <h1 style="color: blue;">Hello Everybody</h1>
+        <h1>Hello Everybody</h1>
     </body>
 </html>
